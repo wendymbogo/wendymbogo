@@ -29,9 +29,5 @@ I'm a Junior Data Analyst and Computer Science graduate passionate about turning
 ## 📫 Let’s Connect!
 - **Email**: [wendymbogo18@gmail.com](mailto:wendymbogo18@gmail.com)  
 - **LinkedIn**: [linkedin.com/in/grace-mugeni-8765481bb](https://www.linkedin.com/in/grace-mugeni-8765481bb)  
-- **Phone**: +254 113132272  
-
-## ⚡ Fun Fact
-I once debugged a database issue while teaching a team how to use it—multitasking is my superpower!  
 
 Check out my repositories below—I’m always adding new projects to showcase my growth. Let’s build something impactful together!
